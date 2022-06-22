@@ -11,7 +11,10 @@ FS2K
 ├── pre_res_model_gender.ckpt
 ├──...
 ```
-res34_gender等文件夹是训练时的曲线变化，可通过tensorboard查看</br>
+res34_gender等文件夹记录了训练时的曲线变化，可通过tensorboard查看</br>
+```
+tenboard --logdir=res34_gender</br>
+```
 </br>
 
 如何训练
