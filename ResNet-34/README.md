@@ -15,6 +15,8 @@ res34_gender等文件夹记录了训练时的曲线变化，可通过tensorboard
 ```
 tenboard --logdir=res34_gender
 ```
+![](README.assets/1.jpg)
+
 </br>
 
 如何训练
@@ -25,7 +27,8 @@ python main_train.py --attribute 人脸属性 --num_classes 属性类别数
 ```
 python main_train.py --attribute ‘gender’ --num_classes 2
 ```
-如何生成混淆矩阵
+![](README.assets/2.png)
+</br></br>如何生成混淆矩阵
 ```
 python confusion.py --attribute 人脸属性 --num_classes 属性类别数
 ```
@@ -33,6 +36,8 @@ python confusion.py --attribute 人脸属性 --num_classes 属性类别数
 ```
 python confusion.py --attribute ‘gender’ --num_classes 2
 ```
+![](README.assets/3.png)
+</br>
 [数据集和预训练模型的百度云下载链接](https://pan.baidu.com/s/1P3sTOrAlNTWRQfjed1sk8Q)提取码：95k9 
 
 
