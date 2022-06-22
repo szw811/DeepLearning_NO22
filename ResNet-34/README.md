@@ -13,7 +13,7 @@ FS2K
 ```
 res34_gender等文件夹记录了训练时的曲线变化，可通过tensorboard查看</br>
 ```
-tenboard --logdir=res34_gender</br>
+tenboard --logdir=res34_gender
 ```
 </br>
 
