@@ -11,6 +11,9 @@ FS2K
 ├── pre_res_model_gender.ckpt
 ├──...
 ```
+res34_gender等文件夹是训练时的曲线变化，可通过tensorboard查看</br>
+</br>
+
 如何训练
 ```
 python main_train.py --attribute 人脸属性 --num_classes 属性类别数
