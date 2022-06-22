@@ -1,0 +1,3 @@
+import earring_smile_frontal_face_style
+
+earring_smile_frontal_face_style.main()
