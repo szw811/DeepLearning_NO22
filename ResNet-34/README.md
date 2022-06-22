@@ -4,12 +4,12 @@
 FS2K
 ├── FS2K
 │       ├── test
-│       ├── train
+│       └──train
 ├── confusion.py
 ├── FS2K_dataset.py
-└── main_train.py
-└── pre_res_model_gender.ckpt
-└── ...
+├── main_train.py
+├── pre_res_model_gender.ckpt
+├──...
 ```
 如何训练
 ```
