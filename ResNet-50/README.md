@@ -1,7 +1,7 @@
 运行所需的文件结构如下所示：
 ```
 FS2K
-├── FS2K
+├── FS2K FS2K官方数据集
 │       ├── test
 │       └──train
 ├── confusion.py
@@ -11,7 +11,6 @@ FS2K
 ├── pre_res_model_Mod_Resnet.ckpt
 ├──...
 ```
-其中FS2K文件夹下为FS2K官方数据集的数据</br>
 训练
 ```
 python main.py
