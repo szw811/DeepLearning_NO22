@@ -27,6 +27,6 @@ python confusion.py --attribute 人脸属性 --num_classes 属性类别数
 ```
 python confusion.py --attribute ‘gender’ --num_classes 2
 ```
-[数据集和预训练模型的百度云下载链接](https://drive.google.com/file/d/1saIMhQ3dc5_ftkfGmBPbCluRn_zy7QQp/view?usp=sharing)
+[数据集和预训练模型的百度云下载链接](https://pan.baidu.com/s/1P3sTOrAlNTWRQfjed1sk8Q)提取码：95k9 
 
 
